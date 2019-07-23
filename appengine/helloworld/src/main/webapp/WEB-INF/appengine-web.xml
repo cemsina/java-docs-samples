@@ -14,7 +14,7 @@
 <!-- [START config] -->
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
   <application>tft-captain</application>
-  <version>1.0.0</version>
+  <version>alpha001</version>
   <threadsafe>true</threadsafe>
 </appengine-web-app>
 <!-- [END config] -->
